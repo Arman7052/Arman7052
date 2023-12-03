@@ -6,6 +6,8 @@ Frontend Web Developer (MERN Stack)
 
 Hey there! I'm a dynamic junior web developer with a flair for crafting digital magic. Proficient in HTML, CSS, Bootstrap, Tailwind CSS, and adept at deploying with Firebase and Vercel, I navigate the tech landscape seamlessly—from JavaScript and React to ExpressJS, NodeJS, and MongoDB. Ten successful projects stand testament to my coding finesse. Beyond the code, I'm on the verge of completing a Bachelor's in Business Studies, majoring in Management, bringing a unique blend of tech and team management skills. A perpetual learner, I'm always chasing the bleeding edge of tech trends. Ready to launch into the professional realm, I offer a potent mix of technical prowess, problem-solving wizardry, and a collaborative spirit. Open to opportunities, collaborations, and eager to make a positive mark in the tech community. Let's connect for a vibrant exchange of ideas and possibilities! 🚀👩‍💻
 
+<img align="right" alt="Coding" width="250" src="https://github.com/Potential17/Potential17/blob/master/user%20(2).gif">
+
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://mdarmanhossain.netlify.app/)
 * ✉️  You can contact me at [hossain.arman1e28@gamil.com](mailto:hossain.arman1e28@gamil.com)
